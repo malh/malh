@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @malh  
-- 👀 I’m passionate about **AI**, **Automation**, **Infrastructure Solutions**, and **Web UX/UI**.  
-- 🌱 I’m currently diving deeper into **AI**, exploring its transformative potential.
-- 💡 I enjoy solving complex problems and collaborating on projects that merge innovation with practicality.  
-- 📫 Let’s connect! Reach me at [@mal_h](https://twitter.com/mal_h).  
+# @malh
+
+I’m one great idea away from fortune, freedom, and questionable life choices.
+
+Into infrastructure, architecture, frontend design, automation, and AI — and when I’m feeling reckless, a bit of `<b>HTML</b>`.
+
+This is where the interesting stuff ends up.
 
 <!---
 malh/malh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
