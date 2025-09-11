@@ -7,13 +7,20 @@ occasionally a bit of `<b>html</b>`.
 
 this is where my half-built thoughts and ideas come to live.
 
+
 ```mermaid
 flowchart TD
-    A[building cool things]
-    B[thinking about how to build cooler things]
-    C[forgetting what i was doing halfway through]
+    classDef base fill=#f9fafb,stroke=#e5e7eb,stroke-width=1px,color=#111827,font-size:14px,font-family:Inter,font-weight:500
+    classDef accent fill=#e0f2fe,stroke=#38bdf8,stroke-width=2px,color=#0c4a6e,font-size:14px,font-family:Inter,font-weight:600
+
+    A([building cool things])
+    B([thinking about cooler things])
+    C([forgetting what i was doing])
 
     A --> B --> C
+
+    class A,B,C base
+    class B accent
 ```
 
 
