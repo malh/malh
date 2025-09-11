@@ -7,17 +7,13 @@ occasionally a bit of `<b>html</b>`.
 
 this is where my half-built thoughts and ideas come to live.
 
-
 ```mermaid
 flowchart TD
-    start([great idea])
-    build[build something cool]
-    improve[realise it could be better]
-    tangent[follow weird tangent]
-    forget[forget what i was doing]
-    repeat[loop back? maybe.]
+    A[building cool things]
+    B[thinking about how to build cooler things]
+    C[forgetting what i was doing halfway through]
 
-    start --> build --> improve --> tangent --> forget --> repeat
+    A --> B --> C
 ```
 
 
