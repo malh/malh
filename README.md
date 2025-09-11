@@ -7,9 +7,19 @@ occasionally a bit of `<b>html</b>`.
 
 this is where my half-built thoughts and ideas come to live.
 
-> ⚙️  building cool things  
-> 🧠  thinking about how to build cooler things  
-> 🫠  forgetting what i was doing halfway through
+
+```mermaid
+flowchart TD
+    start([great idea])
+    build[build something cool]
+    improve[realise it could be better]
+    tangent[follow weird tangent]
+    forget[forget what i was doing]
+    repeat[loop back? maybe.]
+
+    start --> build --> improve --> tangent --> forget --> repeat
+```
+
 
 <!---
 malh/malh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
