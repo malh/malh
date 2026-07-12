@@ -2,7 +2,7 @@
 
 *Or maybe I left the door open on purpose. Hard to say anymore.*
 
-You probably think this is where my side projects and failed experiments **live**.
+You probably think this is where my side projects and failed experiments *live*.
 
 They don't.
 
@@ -16,27 +16,6 @@ Whether any of it becomes useful is mostly incidental.
 <code>**malh** not found</code>
 
 ```mermaid
-%%{init: {
-  "theme": "base",
-  "themeVariables": {
-    "fontFamily": "Helvetica, Arial, sans-serif",
-    "primaryColor": "#0d1117",
-    "primaryTextColor": "#2ea043",
-    "primaryBorderColor": "#2ea043",
-    "lineColor": "#2ea043",
-    "actorBkg": "#0d1117",
-    "actorBorder": "#2ea043",
-    "actorTextColor": "#2ea043",
-    "actorLineColor": "#30363d",
-    "signalColor": "#2ea043",
-    "signalTextColor": "#c9d1d9",
-    "labelBoxBkgColor": "#0d1117",
-    "labelTextColor": "#2ea043",
-    "noteBkgColor": "#161b22",
-    "noteBorderColor": "#30363d",
-    "noteTextColor": "#8b949e"
-  }
-}}%%
 sequenceDiagram
     participant you
     participant me
